@@ -1,6 +1,7 @@
 # Machine-Learning-on-Azure-Full-Course
 This is the ReadMe file to the Beginner friendly course on Machine Learning on Azure
 
+![](course_image.png)
 # About the Course
 Welcome to "Machine Learning on Azure - Beginners Series"! In this course, we'll introduce you to the exciting world of machine learning and cloud computing with Microsoft Azure.
 
