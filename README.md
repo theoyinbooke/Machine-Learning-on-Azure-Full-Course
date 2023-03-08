@@ -1,4 +1,4 @@
-# Machine-Learning-on-Azure-Full-Course
+# Data-Science-on-Azure-Full-Course
 This is the ReadMe file to the Beginner friendly course on Machine Learning on Azure
 
 ![](course_image.png)
